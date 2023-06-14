@@ -1,0 +1,359 @@
+@charset "UTF-8";
+
+body{
+  background-color: rgb(221, 240, 247);
+}
+
+header#cabecalho{
+  width: auto;
+  height: 150px; 
+  background: #363d87; 
+}
+
+header#cabecalho img#icone{
+  padding-top: 20px;
+  padding-left: 100px;
+}
+
+header#cabecalho img{
+  padding: 7px 5px 7px 1px;
+  position: relative;
+  padding-top: 20px;
+  padding-left: 600px;
+  
+}
+
+header#cabecalho h3{
+  background-color: aliceblue;
+  border-radius: 25px;
+  width: 90%;
+  height: 25%;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  font-size: 20pt;
+  color: dimgrey;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  padding: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+div#interfaces{
+  width: 80%;
+  border-radius: 5px;
+  margin: auto;
+  box-shadow: 1px 5px 5px 5px rgba(0, 0, 0, 0.2);
+  background-color: ghostwhite;
+}
+
+section#sessoes{
+  display: block; 
+  width: 90%;
+  padding-top: 20px;
+  margin: auto;
+  text-align: justify;
+}
+
+section#sesso{
+  display: block;  
+}
+
+section#sesso h1 {
+   color: black;
+   font-size: xx-large;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso h2{
+  color: black;
+  font-size: x-large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;                                         
+}
+
+section#sesso p {
+  color: black;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+
+}
+
+section#sesso1{
+  display: block;  
+}
+
+section#sesso1 h1 {
+   color: black;
+   font-size: xx-large;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso1 h2{
+
+  color: black;
+  font-size: x-large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso1 p {
+  color: black;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+}
+
+section#sesso2{
+  display: block;  
+}
+
+section#sesso2 h1 {
+   color: black;
+   font-size: xx-large;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso2 h2{
+  color: black;
+  font-size: x-large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso2 p {
+  color: black;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+}
+
+section#sesso3{
+  display: block;  
+}
+
+section#sesso3 h1 {
+   color: black;
+   font-size: xx-large;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso3 h2{
+  color: black;
+  font-size: x-large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso3 p {
+  color: black;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+}
+
+section#sesso4{
+  display: block;  
+}
+
+section#sesso4 h1 {
+   color: black;
+   font-size: xx-large;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso4 h2{
+
+  color: black;
+  font-size: x-large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso4 p {
+  color: black;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+}
+
+section#sesso5{
+  display: block;  
+}
+
+section#sesso5 h1 {
+   color: black;
+   font-size: xx-large;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso5 h2{
+
+  color: black;
+  font-size: x-large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso5 p {
+  color: black;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+}
+
+nav#menu{
+  display: block; 
+  margin: auto;
+  width: 80%
+}
+
+nav#menu a{
+  text-decoration: none;
+  font-size: large; 
+  font-family: Arial;
+  color: black;
+}
+
+nav#menu ul{ 
+    position: static;
+    box-shadow: #606060;
+    padding-left: 5%;
+}
+
+nav#menu li{
+    border: 1px solid rgb(255, 255, 255);
+    display: inline-block;  
+    background-color: #363d87; 
+    padding: 15px;  
+    border-radius: 30px; 
+    transition: backgroud-color 1s; 
+    text-align: center;
+    width: 120px;
+    height: 25px;
+}
+
+nav#menu li a{
+    display: block;
+    color: aliceblue;
+    font-size: large;
+}
+
+nav#menu li:hover{
+  background-color: darkgray;
+}
+
+nav#menu h1{
+  display: none;  
+}
+
+table#taleba{
+  font-family: Arial, sans-serif;
+  width: 75%;
+  border-collapse: collapse;
+  margin: auto;
+
+}
+
+table#taleba th{
+  text-align: left;
+  float: left;
+}
+
+table#taleba td.ce#titulotb{
+  color: aliceblue;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  background-color: #606060;
+}
+
+table#taleba td.cd#titulotb{
+  color: aliceblue;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  background-color: #606060;
+}
+
+table#taleba td.ce{
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  background-color: ghostwhite;
+}
+
+table#taleba td.cd{
+  border: 1px solid black;
+  text-align: center;
+  padding: 15px;
+  background-color: ghostwhite;
+}
+
+table#taleba1{
+  font-family: Arial, sans-serif;
+  width: 75%;
+  border-collapse: collapse;
+  margin: auto;
+  
+}
+
+table#taleba1 th{
+  text-align: left;
+  float: left;
+}
+
+table#taleba1 td.ce#titulotb{
+  color: aliceblue;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  background-color: #606060;
+}
+
+table#taleba1 td.cd#titulotb{
+  color: aliceblue;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  background-color: #606060;
+}
+
+table#taleba1 td.ce{
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  background-color: ghostwhite;
+}
+
+table#taleba1 td.cd{
+  border: 1px solid black;
+  text-align: center;
+  padding: 15px;
+  background-color: ghostwhite;
+}
+
+table#taleba2{
+  font-family: Arial, sans-serif;
+  width: 75%;
+  border-collapse: collapse;
+  margin: auto;
+  
+}
+
+table#taleba2 th{
+  text-align: left;
+  float: left;
+}
+
+table#taleba2 td.ce{
+  color: aliceblue;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  background-color: #606060;
+}
+
+table#taleba2 td.cd{
+  border: 1px solid black;
+  text-align: center;
+  padding: 15px;
+  background-color: ghostwhite;
+}
+
+footer#rodape{
+  height: 50px;
+  clear: both;
+  border-top: 5px solid dimgrey; 
+}
+footer#rodape p{
+  text-align: center; 
+}
