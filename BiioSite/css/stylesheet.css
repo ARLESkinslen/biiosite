@@ -190,6 +190,29 @@ section#sesso5 p {
   font-family: Arial, sans-serif;
 }
 
+section#sesso0{
+  display: block;  
+}
+
+section#sesso0 h1 {
+   color: black;
+   font-size: xx-large;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso0 h2{
+
+  color: black;
+  font-size: x-large;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+section#sesso0 p {
+  color: black;
+  font-size: medium;
+  font-family: Arial, sans-serif;
+}
+
 nav#menu{
   display: block; 
   margin: auto;
@@ -349,11 +372,80 @@ table#taleba2 td.cd{
   background-color: ghostwhite;
 }
 
-footer#rodape{
-  height: 50px;
-  clear: both;
-  border-top: 5px solid dimgrey; 
+table#talebarf{
+  font-family: Arial, sans-serif;
+  width: 100%;
+  border-collapse: collapse;
+  margin: auto;
+  
 }
+
+table#talebarf td.ce#titulotb{
+  color: black;
+  border: 1px solid black;
+  text-align: center;
+  border-top: 1px transparent;
+  border-left: 1px transparent;
+  padding: 5px;
+  background-color: transparent;
+}
+
+table#talebarf td.cd#titulotb{
+  color: black;
+  border: 1px solid black;
+  border-top: 1px transparent;
+  border-right: 1px transparent;
+  text-align: left;
+  padding: 5px;
+  background-color: transparent;
+}
+
+table#talebarf td.ce#lasttb{
+  color: black;
+  border: 1px solid black;
+  text-align: center;
+  border-bottom: 1px transparent;
+  border-left: 1px transparent;
+  padding: 5px;
+  background-color: transparent;
+}
+
+table#talebarf td.cd#lasttb{
+  color: black;
+  border: 1px solid black;
+  border-bottom: 1px transparent;
+  border-right: 1px transparent;
+  text-align: left;
+  padding: 5px;
+  background-color: transparent;
+}
+
+table#talebarf td.ce{
+  color: black;
+  font-style: oblique;
+  border: 1px solid black;
+  border-left: 1px transparent;
+  text-align: center;
+  padding: 5px;
+  background-color: transparent;
+}
+
+table#talebarf td.cd{
+  border: 1px solid black;
+  border-right: 1px transparent;
+  text-align: left;
+  padding: 5px;
+  background-color: transparent;
+}
+
+footer#rodape{
+  height: 80px;
+  clear: both;
+  border-top: 5px solid dimgrey;
+  padding-top: 10px; 
+}
+
 footer#rodape p{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   text-align: center; 
 }
